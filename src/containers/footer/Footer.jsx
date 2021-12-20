@@ -45,7 +45,7 @@ const Footer = () => {
       </div>
 
       <div className="gpt3__footer-copyright">
-        <p>© 2021 GPT-3. All rights reserved. <br /></p>
+        <p>&copy; 2022 GPT-3. All rights reserved. <br /></p>
         <span>Coded Along by <a target='_blank' className='gradient__text' href="https://www.elmobachiadil.com">EL MOBACHI Adil</a></span>
       </div>
     </div>
